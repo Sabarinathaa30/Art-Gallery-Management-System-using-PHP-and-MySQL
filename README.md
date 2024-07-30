@@ -1,0 +1,2 @@
+# Art-Gallery-Management-System-using-PHP-and-MySQL
+The Art Gallery Management System is a web-based application designed to simplify and enhance the management of art galleries, exhibitions, and individual artworks. Developed using PHP for server-side scripting and MySQL for database management, this system offers a robust solution for gallery administrators and an engaging experience for visitors.
